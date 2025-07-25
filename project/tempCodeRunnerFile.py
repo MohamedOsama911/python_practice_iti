@@ -1,0 +1,2 @@
+temps={'Cairo': 28.42, 'Giza': 28.41, 'Alexandria': 26.86, 'Port Said': 27.84, 'Suez': 27.19, 'Luxor': 31.92, 'Aswan': 32.01, 'Asyut': 30.44, 'Damanhur': 24.54, 'Beni Suef': 29.17, 'Mansoura': 20.79, 'Damietta': 26.98, 'Faiyum': 28.56, 'Tanta': 25.85, 'Ismailia': 26.75, 'Mersa Matruh': 24.58, 'Minya': 30.23, 'Arish': 25.99, 'Banha': 27.28, 'Qena': 31.75, 'Hurghada': 32.7, 'Zagazig': 27.3, 'Sohag': 30.75}
+insertWeatherData("test",temps)
